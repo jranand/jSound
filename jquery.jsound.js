@@ -1,9 +1,9 @@
 /**
  * jQuery extended sound plugin (no flash)
  * 
- * jQuery JSound Version 1.0
+ * jQuery JSound Version 1.10
  *
- * based on jquery.sound.js by Jörn Zaefferer
+ * based on jquery.sound.js by Jï¿½rn Zaefferer
  * Ramakrishna Anand.J
  * Licensed under the GNU GENERAL PUBLIC LICENSE:
  * http://opensource.org/licenses/GPL-3.0
